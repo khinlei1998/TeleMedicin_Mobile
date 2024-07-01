@@ -1,0 +1,131 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/logo.jpg",
+    "baseName": "logo.jpg",
+    "format": "JPEG",
+    "formatDescription": "JPEG",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1809,
+      "height": 1893,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 10273311,
+    "imageStatistics": {
+      "Overall": {
+        "min": 19,
+        "max": 255,
+        "mean": 232.752,
+        "median": 254,
+        "standardDeviation": 14677.3,
+        "kurtosis": 4.71494,
+        "skewness": -2.52839,
+        "entropy": 0.199208
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 19,
+        "max": 255,
+        "mean": 227.604,
+        "median": 253,
+        "standardDeviation": 17491.4,
+        "kurtosis": 3.60899,
+        "skewness": -2.359,
+        "entropy": 0.214711
+      },
+      "green": {
+        "min": 47,
+        "max": 255,
+        "mean": 231.529,
+        "median": 254,
+        "standardDeviation": 15570.7,
+        "kurtosis": 3.59996,
+        "skewness": -2.35857,
+        "entropy": 0.196653
+      },
+      "blue": {
+        "min": 83,
+        "max": 255,
+        "mean": 239.124,
+        "median": 255,
+        "standardDeviation": 10969.8,
+        "kurtosis": 3.64665,
+        "skewness": -2.36609,
+        "entropy": 0.186259
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1809,
+      "height": 1893,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 90,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-02-16T07:30:30+00:00",
+      "date:modify": "2022-02-16T07:30:30+00:00",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "7ea386d6bf2acea343b6ed007b11fc818a300c719b9b0e8179065b5b39128653"
+    },
+    "profiles": {
+      "icc": {
+        "length": 536
+      }
+    },
+    "tainted": false,
+    "filesize": "244441B",
+    "numberPixels": "3.42444M",
+    "pixelsPerSecond": "27.9637MB",
+    "userTime": "0.110u",
+    "elapsedTime": "0:01.122",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
